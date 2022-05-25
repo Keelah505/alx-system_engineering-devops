@@ -1,2 +1,2 @@
-#!/bin?bash
-mv file [A-Z]* /tmp/u
+ #!/bin/bash
+ mv file_[A-Z] /tmp/u
